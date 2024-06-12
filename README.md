@@ -48,6 +48,7 @@ I configured F9 to run a toggle script. This script kills all the scripts that w
 + [toggle on/off](__conky_toggle.sh)
 
 ## Prerequisites 
+### Fonts
 ```
 nerd-fonts-3.1.1               Developer-targeted fonts with a high number of glyphs
 
