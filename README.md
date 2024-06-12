@@ -53,7 +53,7 @@ In order for conky to render images and display emojis, it has to be recompiled 
 
 screen:
 
-![](../data/conky/compile_screen.png)
+![](./data/conky/compile_screen.png)
 
 - [X] - IMLIB2 : Imlib 2 image library support
 - [X] - LUA_IMLIB2 : Lua-Imlib2 binding
