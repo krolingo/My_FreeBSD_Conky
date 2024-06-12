@@ -6,6 +6,10 @@ This conky is the "traditional" script that has been extended to montior WiFi co
 
 ## This conky includes a simple script to display signal levels as a percentage
 
+```
+__wifi_strength_ifconfig.sh
+```
+
 ```sh
 #!/bin/sh
 
@@ -26,6 +30,10 @@ echo "$PERCENTAGE%"
 ```
 
 ## Data is compiled from through this script:
+
+```
+__get_wifi_data.sh
+```
 
 ```sh
 #!/bin/sh
