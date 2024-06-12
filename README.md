@@ -4,7 +4,7 @@
 
 ### My desktop view
 
-<p align="center"><img width="1900" src="./data/configs/full_config_ported.png"></p>
+<p align="center"><img width="1900" src="./data/configs/full_config1.png"></p>
 
 ### The full configuration, organized in folders
 
