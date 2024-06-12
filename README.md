@@ -23,7 +23,7 @@ Menu bar face icon now calls ~.config/conky/organized/__conky_restart_system_das
 
 **F9 - toggle kills & relaunches the dashboard**
 
-I configured F9 to run the toggle script. This  kills all the scripts that where launched by it. Running again and toggles on/off.
+I configured F9 to run a toggle script. This script kills all the scripts that where launched by it. Running again and toggles on/off.
 
 ***
 **Conky Scripts**
