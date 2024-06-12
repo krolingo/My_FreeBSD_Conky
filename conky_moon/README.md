@@ -52,3 +52,11 @@ fi
 date >> "$TIMESTAMP"
 
 ```
+
+## This script is launched as a cron job
+
+```sh
+# Download Moon Data 
+0 */12 * * * ~/$your_directory/moon_data_GPT4.sh
+
+```
