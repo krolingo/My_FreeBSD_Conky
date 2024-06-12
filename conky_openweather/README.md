@@ -8,7 +8,7 @@ Another weather conky that uses OpenWeather.
 <?php
 
 // Your OpenWeatherMap API key
-$apiKey = "12bd891f73148c66a7521783a5830351";
+$apiKey = "$Get_your_own";
 
 // City ID
 $cityId = '5128581'; // New York City ID
