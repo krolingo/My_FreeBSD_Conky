@@ -21,9 +21,9 @@ Menu bar face icon used to call ~/bin/__openbox_restart_system_monitor.sh
 ![](./data/launcher/icon/preferences-desktop-text-to-speech.png)
 Menu bar face icon now calls ~.config/conky/organized/__conky_restart_system_dashboard.sh
 
-**F9 - toggle kills it**
+**F9 - toggle kills & relaunches the dashboard**
 
-F9 script kills all that is running and toggle again launches the Vermaden Dashboard.
+I configured F9 to run the toggle script. This  kills all the scripts that where launched by it. Running again and toggles on/off.
 
 ***
 **Conky Scripts**
