@@ -47,6 +47,12 @@ I configured F9 to run a toggle script. This script kills all the scripts that w
 + [restart dashboard](__conky_restart_system_dashboard.sh)
 + [toggle on/off](__conky_toggle.sh)
 
+## Prerequisites 
+```
+nerd-fonts-3.1.1               Developer-targeted fonts with a high number of glyphs
+
+pkg install nerd-fonts
+```
 ### Compile Conky
 
 In order for conky to render images and display emojis, it has to be recompiled with additional options enabled.
