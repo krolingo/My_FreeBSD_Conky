@@ -12,12 +12,13 @@ conky.config = {
 
     cpu_avg_samples = 2,
   
-    gap_x = 300,
-    gap_y = 600,
+    gap_x = 310,
+    gap_y = 490,
     maximum_width = 275,
     minimum_width = 275,
     minimum_height = 256,
-
+    use_xft = true,
+    font = 'FiraCode Nerd Font-9',
     border_inner_margin = 5,
     border_outer_margin = 0,
     border_width = 5,
@@ -28,17 +29,16 @@ conky.config = {
     double_buffer = true,
     override_utf8_locale = true,
 
-    
     net_avg_samples = 2,
     own_window = true,
-    own_window_class = 'override',
-    own_window_type = 'Conky',
+    own_window_class = 'Conky',
+    own_window_type = 'dock',
     own_window_argb_visual = true,
     own_window_argb_value = 0,
     own_window_transparent = true,
 
     own_window_hints = 'undecorated,below,sticky,skip_taskbar,skip_pager',
-    update_interval = 36000,  -- Update every 30 minutes
+    update_interval = 36000,
     imlib_cache_size=1
 -- #####
 
@@ -47,5 +47,12 @@ conky.config = {
 
 conky.text = [[
 ${image ]] .. script_dir .. [[beastie.png -p 0,0 -s 120x120}
+
+
+
+
+
+
+
 
 ]]
