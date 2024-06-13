@@ -1,0 +1,52 @@
+moon_day_WaxC_0.jpg = 3757.jpg
+moon_day_WaxC_5.jpg = 3781.jpg
+moon_day_WaxC_10.jpg = 3805.jpg
+moon_day_WaxC_15.jpg = 3829.jpg
+moon_day_WaxC_20.jpg = 3853.jpg
+moon_day_WaxC_25.jpg = 3877.jpg
+moon_day_WaxC_30.jpg = 3901.jpg
+moon_day_WaxC_35.jpg = 3925.jpg
+moon_day_WaxC_40.jpg = 3949.jpg Today june 13
+moon_day_first.jpg   = 3973.jpg Tomorrow june 14
+moon_day_WaxG_60.jpg = 3997.jpg june 15
+moon_day_WaxG_70.jpg = 4021.jpg june 16 
+moon_day_WaxG_75.jpg = 4045.jpg june 17
+moon_day_WaxG_85.jpg = 4069.jpg june 18
+moon_day_WaxG_90.jpg = 4093.jpg june 19
+moon_day_WaxG_95.jpg = 4117.jpg june 20
+moon_day_WaxG_95.jpg = 4117.jpg june 21 ?
+moon_day_full.png    = 4165.jpg june 22 full 
+moon_day_WanG_95.jpg = 4189.jpg june 23
+moon_day_WanG_90.jpg = 4213.jpg june 24 
+moon_day_WanG_85.jpg = 4237.jpg june 25
+moon_day_WanG_75.jpg = 4261.jpg june 26
+moon_day_WanG_65.jpg = 4285.jpg june 27
+moon_day_last.jpg    = 4309.jpg june 28
+moon_day_WanC_40.jpg = 4333.jpg june 29
+moon_day_WanC_30.png = 4357.jpg june 30
+moon_day_WanC_20.jpg = 4381.jpg july 01
+moon_day_WanC_10.jpg = 4405.jpg july 02
+moon_day_WanC_5.jpg  = 4429.jpg july 03
+moon_day_WanC_0.jpg  = 4453.jpg july 04
+moon_day_new.jpg     = 4477.jpg july 05
+moon_day_WaxC_0.jpg  = 4501.jpg july 06
+moon_day_WaxC_0.jpg  = 4525.jpg july 07
+
+
+
+
+
+
+
+
+
+moon_day_WaxG_50.jpg = 3997.jpg
+moon_day_WaxG_55.jpg = 4021.jpg
+moon_day_WaxG_60.jpg = 4045.jpg
+moon_day_WaxG_65.jpg = 4069.jpg
+moon_day_WaxG_70.jpg = 4093.jpg
+moon_day_WaxG_75.jpg = 4117.jpg
+moon_day_WaxG_80.jpg = 4141.jpg
+moon_day_WaxG_85.jpg = 4165.jpg full :/ (jun 22)
+moon_day_WaxG_90.jpg = 4189.jpg
+moon_day_WanG_95.png = 4213.png

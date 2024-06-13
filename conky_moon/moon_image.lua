@@ -13,7 +13,7 @@ conky.config = {
     cpu_avg_samples = 2,
   
     gap_x = 310,
-    gap_y = 365,
+    gap_y = 285,
     maximum_width = 275,
     minimum_width = 275,
     minimum_height = 256,
@@ -45,7 +45,8 @@ conky.config = {
 
 conky.text = [[
 # Image
-${image ]] .. script_dir .. [[astro_nerd_ripped/tmp/current_moon.png -p 0,0 -s 120x120}
+${image ]] .. script_dir .. [[astro_nerd_ripped/tmp/current_moon.png -p -2,0 -s 120x120}
+
 
 
 
