@@ -45,7 +45,7 @@ conky.config = {
 
 conky.text = [[
 # Image
-${image ]] .. script_dir .. [[astro_nerd_ripped/tmp/current_moon.png -p -2,0 -s 120x120}
+${image ]] .. script_dir .. [[astro_nerd_ripped/tmp/current_moon.png -p -0,0 -s 120x120}
 
 
 
