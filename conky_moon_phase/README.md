@@ -30,9 +30,12 @@ echo 'The moon is currently ' . $age . ' days old, and is therefore ' . $stage .
 echo PHP_EOL;
 echo '' . $illuminationPercentage . '% illuminated and ' . $distance . ' km from the centre of the Earth. ';
 echo PHP_EOL;
+echo 'The full moon is at ' . $fullMoon . '. ';
+echo PHP_EOL;
 echo 'The next full moon is at ' . $nextFullMoon . '. ';
 echo PHP_EOL;
 echo 'The next new moon is at ' . $next . '. ';
+
 ?>
 
 ```
